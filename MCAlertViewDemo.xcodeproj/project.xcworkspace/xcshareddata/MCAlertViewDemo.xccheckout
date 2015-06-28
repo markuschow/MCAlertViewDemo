@@ -10,22 +10,24 @@
 	<string>MCAlertViewDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B90CF91E85AF5C0CC7122F44437A3DE861F8431A</key>
-		<string>https://bitbucket.org/markuschow/mcalertviewdemo.git</string>
+		<key>C20CF56B513C4AF2725D63F13DFD1F92423C8754</key>
+		<string>https://github.com/markuschow/MCAlertViewDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>MCAlertViewDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>B90CF91E85AF5C0CC7122F44437A3DE861F8431A</key>
+		<string>../../../MCAlertViewDemo</string>
+		<key>C20CF56B513C4AF2725D63F13DFD1F92423C8754</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/markuschow/mcalertviewdemo.git</string>
+	<string>https://github.com/markuschow/MCAlertViewDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B90CF91E85AF5C0CC7122F44437A3DE861F8431A</string>
+	<string>C20CF56B513C4AF2725D63F13DFD1F92423C8754</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +37,14 @@
 			<string>B90CF91E85AF5C0CC7122F44437A3DE861F8431A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MCAlertViewDemo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C20CF56B513C4AF2725D63F13DFD1F92423C8754</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MCAlertViewDemo_GIT</string>
 		</dict>
 	</array>
 </dict>
