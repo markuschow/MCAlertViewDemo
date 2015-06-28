@@ -17,8 +17,6 @@
 	<string>MCAlertViewDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B90CF91E85AF5C0CC7122F44437A3DE861F8431A</key>
-		<string>../../../MCAlertViewDemo</string>
 		<key>C20CF56B513C4AF2725D63F13DFD1F92423C8754</key>
 		<string>../..</string>
 	</dict>
@@ -30,14 +28,6 @@
 	<string>C20CF56B513C4AF2725D63F13DFD1F92423C8754</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B90CF91E85AF5C0CC7122F44437A3DE861F8431A</string>
-			<key>IDESourceControlWCCName</key>
-			<string>MCAlertViewDemo</string>
-		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
